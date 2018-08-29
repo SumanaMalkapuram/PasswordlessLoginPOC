@@ -1,0 +1,4 @@
+node_modules/
+server/
+smsValidation.js
+auth0-variables.js-backup
